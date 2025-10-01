@@ -1,4 +1,4 @@
 {
-    "ServerKind": 0, /* 声明静态托管 */
-    "OrganizationName": "高一16班" /* 组织名称 */
+    "ServerKind": 0, 
+    "OrganizationName": "高一16班"
 }
